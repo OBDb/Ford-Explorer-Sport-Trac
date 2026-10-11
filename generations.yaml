@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Explorer_Sport_Trac"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2007
+    end_year: 2010
+    description: "A mid-size pickup on the fourth-generation Explorer, with the 4.0 L V6 and 4.6 L V8."
